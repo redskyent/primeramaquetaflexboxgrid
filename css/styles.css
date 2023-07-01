@@ -1,0 +1,23 @@
+*{box-sizing: border-box;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+.verde{
+    background-color: aquamarine;
+    border: solid 1px red;
+}
+.magenta {
+    background-color: magenta;
+    padding: 5px;
+}
+.alturaSlider{
+    height: 500px;
+}
+.alturaSection {
+    height: 300px;
+}
+.centrarSlider {
+    display: flex;
+    justify-content: center;
+}
